@@ -8,7 +8,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 
   <teiHeader>
-
+<!--
     <fileDesc>
 
       <titleStmt>
@@ -40,6 +40,7 @@
           <p>Not to ricirculate. Contact the Digital Vercelli Project researchers for more information.</p>
         </availability>
       </publicationStmt>
+    -->
 <!--
       <sourceDesc>
         <msDesc>
@@ -333,9 +334,10 @@
 
         </msDesc>
       </sourceDesc>
--->
-    </fileDesc>
 
+    </fileDesc>
+-->
+<!--
     <encodingDesc>
       <projectDesc>
         <p/>
@@ -357,7 +359,6 @@
 
       <charDecl>
 
-        <!-- OE VOWELS -->
 
         <char xml:id="inodot">
           <charName>LATIN SMALL LETTER DOTLESS I</charName>
@@ -457,7 +458,7 @@
         </char>
 
 
-        <!-- OE VOWELS: VARIANT LETTER FORMS -->
+
 
         <glyph xml:id="yrgmainstrok">
           <glyphName>LATIN SMALL LETTER Y WITH RIGHT MAIN STROKE</glyphName>
@@ -466,18 +467,14 @@
           <mapping type="normalized">y</mapping>
         </glyph>
 
-        <!-- OE CONSONANTS: VARIANT LETTER FORMS -->
-
         <glyph xml:id="ginsmacr">
           <glyphName>LATIN SMALL LETTER INSULAR G WITH MACRON</glyphName>
-          <!--<mapping type="codepoint" subtype="MUFI-PUA">U+</mapping>-->
           <mapping type="diplomatic">ḡ</mapping>
           <mapping type="normalized">g</mapping>
         </glyph>
 
         <glyph xml:id="Ginsmacr">
           <glyphName>LATIN SMALL LETTER INSULAR G WITH MACRON</glyphName>
-          <!--<mapping type="codepoint" subtype="MUFI-PUA">U+</mapping>-->
           <mapping type="diplomatic">Ḡ</mapping>
           <mapping type="normalized">G</mapping>
         </glyph>
@@ -510,7 +507,6 @@
           <mapping type="normalized">s</mapping>
         </glyph>
 
-        <!-- BREVIGRAPHS -->
 
         <char xml:id="et">
           <charName>LATIN ABBREVIATION SIGN SMALL ET</charName>
@@ -518,20 +514,17 @@
           <mapping type="diplomatic">⁊</mapping>
         </char>
 
-        <!-- PUNCTUATION -->
 
         <char xml:id="colmidcomposit">
           <charName>COLON WITH MIDDLE COMMA POSITURA</charName>
           <mapping subtype="MUFI-PUA" type="codepoint">U+F1E5</mapping>
           <mapping type="diplomatic"></mapping>
-          <!--<mapping type="normalized"></mapping>-->
         </char>
 
         <char xml:id="middot">
           <charName>MIDDLE DOT</charName>
           <mapping type="codepoint">U+00B7</mapping>
           <mapping type="diplomatic">·</mapping>
-          <!--<mapping type="normalized"></mapping>-->
         </char>
 
 
@@ -554,7 +547,7 @@
       <change when="2010-09" who="RRDT">Conversion to the TEI P5 DTD</change>
       <change when="2004-01" who="RRDT">Experimental transcription using the Digital Scriptorium DTD</change>
     </revisionDesc>
-
+-->
   </teiHeader>
 
   <facsimile xml:id="VB_fac_DOTR">
