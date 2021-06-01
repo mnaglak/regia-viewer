@@ -557,7 +557,7 @@
 
   <facsimile xml:id="VB_fac_DOTR">
 
-    <surface xml:id="VB_surf_104v" corresp="#VB_fol_104v">
+    <surface xml:id="VB_surf_104v" corresp="#R5_02">
       <graphic height="1800px" url="immagini\Vercelli-Book_104V_S_300dpi.jpg" width="1200px"/>
       <zone corresp="#VB_lb_104v_01" lrx="1052" lry="211" rend="visible" rendition="Line" ulx="261" uly="156"
         xml:id="VB_line_104v_01"/>
@@ -1182,7 +1182,7 @@
       <div n="DOTR" subtype="edition_text" type="verse" xml:id="DOTR">
 
         <!-- #######################################  folio 104v  ####################################### -->
-        <pb n="104v" xml:id="VB_fol_104v" facs="data/images/single/R5_02.jpg"/>
+        <pb n="104v" xml:id="R5_02" facs="data/images/single/R5_02.JPG"/>
 
         <l n="1"><lb facs="#VB_line_104v_07" n="7" xml:id="VB_lb_104v_07"/><hi rend="init3.1"><g ref="#Hunc"/></hi><hi
             rend="cap">W</hi>æt ic <g ref="#slong"/>wefna c<g ref="#ydot"/><g ref="#sins"/>t secgan wylle</l>
