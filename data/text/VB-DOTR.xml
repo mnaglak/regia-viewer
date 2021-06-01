@@ -549,7 +549,7 @@
     </revisionDesc>
 -->
   </teiHeader>
-
+<!--
   <facsimile xml:id="VB_fac_DOTR">
 
     <surface xml:id="VB_surf_104v" corresp="#R5_02">
@@ -808,8 +808,8 @@
     </surface>
 
   </facsimile>
-
-   <text n="The Dream of the Rood" xml:id="VB_text_DOTR">
+-->
+   <text n="Regia Journal 5" xml:id="VB_text_DOTR">
 
     <front>
 
