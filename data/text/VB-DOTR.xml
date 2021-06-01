@@ -12,9 +12,9 @@
     <fileDesc>
 
       <titleStmt>
-        <title>The Vercelli Book: a machine readable transcription</title>
-        <author>Unknown</author>
-        <principal>Roberto Rosselli Del Turco</principal>
+        <title>The Roman Regia Revisited</title>
+        <author>Frank Brown</author>
+        <principal>Unknwon</principal>
         <respStmt>
           <resp>Conversion to TEI-conformant markup: </resp>
           <name>Raffaele Cioffi</name>
@@ -34,8 +34,8 @@
       <extent>[??] kilobytes</extent>
 
       <publicationStmt>
-        <authority>Digital Vercelli Project</authority>
-        <date>2004</date>
+        <authority>Roman Regia Revisited</authority>
+        <date>2021</date>
         <availability status="unknown">
           <p>Not to ricirculate. Contact the Digital Vercelli Project researchers for more information.</p>
         </availability>
@@ -69,7 +69,7 @@
             <!-- NB all incipit/explicit content for homilies to be changed
                   add "ff. " to <locus> elements content; add @target as well?
             -->
-
+<!--
             <msItem>
               <locus from="1r" to="9r">1r - 9r</locus>
               <title type="work" subtype="prose">Homily I</title>
@@ -274,7 +274,8 @@
             </msItem>
 
           </msContents>
-
+-->
+<!--
           <physDesc>
             <objectDesc form="codex">
               <supportDesc material="parchment">
@@ -328,7 +329,7 @@
               notation written in Italian handwriting can be dated to the early XII century and is then a reasonable
               post-quem term.</provenance>
           </history>
-
+-->
         </msDesc>
       </sourceDesc>
 
