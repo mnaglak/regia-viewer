@@ -1182,7 +1182,7 @@
       <div n="DOTR" subtype="edition_text" type="verse" xml:id="DOTR">
 
         <!-- #######################################  folio 104v  ####################################### -->
-        <pb n="104v" xml:id="VB_fol_104v" facs="data/images/single/VB_fol_104v.jpg"/>
+        <pb n="104v" xml:id="VB_fol_104v" facs="data/images/single/R5_02.jpg"/>
 
         <l n="1"><lb facs="#VB_line_104v_07" n="7" xml:id="VB_lb_104v_07"/><hi rend="init3.1"><g ref="#Hunc"/></hi><hi
             rend="cap">W</hi>æt ic <g ref="#slong"/>wefna c<g ref="#ydot"/><g ref="#sins"/>t secgan wylle</l>
