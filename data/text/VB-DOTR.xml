@@ -40,7 +40,7 @@
           <p>Not to ricirculate. Contact the Digital Vercelli Project researchers for more information.</p>
         </availability>
       </publicationStmt>
-
+<!--
       <sourceDesc>
         <msDesc>
           <msIdentifier>
@@ -55,11 +55,12 @@
             <summary>The Codex Vercellensis, or Vercelli Book, as it is known in the Anglo-Saxon world and now also in
               Italy, is a manuscript dating back to the end of the 10th century, containing miscellaneous religious
               works, in verse and prose: 23 homilies in prose and 6 poetic works following the Anglo-Saxon alliterative metrics.
-            </summary>
+            </summary> -->
             <!-- check language code DONE -->
+            <!--
             <textLang mainLang="ang" otherLangs="lat">The primary language in this manuscript is Old English, with a few isolated Latin
               words and phrases.</textLang>
-
+-->
             <!-- is an item for the whole MS necessary?
                   <msItem>
                      <locus from="1r" to="234r">1r - 135v</locus>
@@ -329,10 +330,10 @@
               notation written in Italian handwriting can be dated to the early XII century and is then a reasonable
               post-quem term.</provenance>
           </history>
--->
+
         </msDesc>
       </sourceDesc>
-
+-->
     </fileDesc>
 
     <encodingDesc>
