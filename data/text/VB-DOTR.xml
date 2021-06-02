@@ -1180,8 +1180,8 @@
         <pb n="0" xml:id="R5_01" facs="data/images/single/R5_01.JPG"/>
 
         <body><p><hi style="font-size:12pt">REGIA: NOV 1964</hi></p>
-        <p><hi style="font-size:12pt">Mario A Del Chiaro</hi></p>
-        <p><pb/></p><p><hi style="font-size:12pt" xml:space="preserve">Nov. 2, 1964           </hi><hi rendition="simple:color(FF0000)" style="font-size:12pt">SEC 1-3</hi></p><p><hi style="font-size:12pt" xml:space="preserve">Preparation for new trench: </hi><hi rendition="simple:color(FF0000)" style="font-size:12pt" xml:space="preserve">SEC 1-3 SOUTH  </hi></p><p><hi style="font-size:12pt" xml:space="preserve">Removal of Augustan architectural </hi></p><p><hi style="font-size:12pt" xml:space="preserve">blocks: </hi><hi rendition="simple:color(FF0000)" style="font-size:12pt">H 3-4 =8 and H 11= 14 and H 2=7</hi></p><p><hi style="font-size:12pt">Numbering removal of paving stones:</hi></p><p><hi rendition="simple:color(FF0000)" style="font-size:12pt">1, 2, 3, 4, 5, 6, 7, 8, 9 and 10</hi> <hi style="font-size:12pt">(threshold Block; fractured)</hi></p><p><hi style="font-size:12pt">SEC 1-3 SOUTH Trench</hi>: </p><p><hi style="font-size:12pt">Roughly 14 x 3 m.</hi></p><p><hi style="font-size:12pt" xml:space="preserve">3m. width of planned trench will roughly cut through the center of the THRESHOLD area necessitating the removal of TWO fragments </hi><hi rendition="simple:color(FF0000)" style="font-size:12pt" xml:space="preserve">(9 and 10) </hi><hi style="font-size:12pt" xml:space="preserve">of the Mediaeval steps and ONE fragment </hi><hi rendition="simple:color(FF0000)" style="font-size:12pt" xml:space="preserve">(8) </hi><hi style="font-size:12pt">of the Augustan threshold. (?).</hi><seg xml:space="preserve">          </seg></p><p><hi style="font-size:12pt" xml:space="preserve">Undertook removal of a small tree and small spur of wall at the Southwest corner of SEC. 3 SOUTH- </hi><hi rendition="simple:color(FF0000)" style="font-size:12pt">SEC. 4 Southeast</hi></p><p><seg xml:space="preserve">                              </seg><hi style="font-size:12pt">see p.3</hi><seg xml:space="preserve">  </seg></p><p><hi style="font-size:12pt">Spur: ca. 60 cm high; 65x55 cm (Medieval ?)</hi><seg xml:space="preserve">  </seg><hi style="font-size:12pt">is composed of cement with marble and tufo fragments.</hi></p></body>
+        <p><hi style="font-size:12pt">Mario A Del Chiaro</hi></p></body>
+
 
 
 <!--
@@ -1324,10 +1324,13 @@
 -->
         <!-- #######################################  folio 105r  ####################################### -->
 
-        <gb n="15" xml:id="VB_gb_15"/>
+  <!--      <gb n="15" xml:id="VB_gb_15"/> -->
 
         <pb n="1" xml:id="VB_fol_105r" facs="data/images/single/R5_02.JPG"/>
+        <body><p></p><p><hi style="font-size:12pt" xml:space="preserve">Nov. 2, 1964           </hi><hi rendition="simple:color(FF0000)" style="font-size:12pt">SEC 1-3</hi></p><p><hi style="font-size:12pt" xml:space="preserve">Preparation for new trench: </hi><hi rendition="simple:color(FF0000)" style="font-size:12pt" xml:space="preserve">SEC 1-3 SOUTH  </hi></p><p><hi style="font-size:12pt" xml:space="preserve">Removal of Augustan architectural </hi></p><p><hi style="font-size:12pt" xml:space="preserve">blocks: </hi><hi rendition="simple:color(FF0000)" style="font-size:12pt">H 3-4 =8 and H 11= 14 and H 2=7</hi></p><p><hi style="font-size:12pt">Numbering removal of paving stones:</hi></p><p><hi rendition="simple:color(FF0000)" style="font-size:12pt">1, 2, 3, 4, 5, 6, 7, 8, 9 and 10</hi> <hi style="font-size:12pt">(threshold Block; fractured)</hi></p><p><hi style="font-size:12pt">SEC 1-3 SOUTH Trench</hi>: </p><p><hi style="font-size:12pt">Roughly 14 x 3 m.</hi></p><p><hi style="font-size:12pt" xml:space="preserve">3m. width of planned trench will roughly cut through the center of the THRESHOLD area necessitating the removal of TWO fragments </hi><hi rendition="simple:color(FF0000)" style="font-size:12pt" xml:space="preserve">(9 and 10) </hi><hi style="font-size:12pt" xml:space="preserve">of the Mediaeval steps and ONE fragment </hi><hi rendition="simple:color(FF0000)" style="font-size:12pt" xml:space="preserve">(8) </hi><hi style="font-size:12pt">of the Augustan threshold. (?).</hi><seg xml:space="preserve">          </seg></p><p><hi style="font-size:12pt" xml:space="preserve">Undertook removal of a small tree and small spur of wall at the Southwest corner of SEC. 3 SOUTH- </hi><hi rendition="simple:color(FF0000)" style="font-size:12pt">SEC. 4 Southeast</hi></p><p><seg xml:space="preserve">                              </seg><hi style="font-size:12pt">see p.3</hi><seg xml:space="preserve">  </seg></p><p><hi style="font-size:12pt">Spur: ca. 60 cm high; 65x55 cm (Medieval ?)</hi><seg xml:space="preserve">  </seg><hi style="font-size:12pt">is composed of cement with marble and tufo fragments.</hi></p></body>
 
+
+<!--
         <ab>
           <add>
             <fw place="top-middle" type="cw"><num value="15">XV</num></fw>
@@ -1592,7 +1595,7 @@
               <reg>God</reg>
             </choice></name></l>
         <l n="61"><g ref="#aacute"/>hofon hine of ðam
-
+-->
           <!-- #######################################  folio 105v  ####################################### -->
 
           <pb n="3" xml:id="VB_fol_105v" facs="data/images/single/VB_fol_105v.jpg"/>
