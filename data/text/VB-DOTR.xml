@@ -1177,7 +1177,7 @@
       <div n="DOTR" subtype="edition_text" type="verse" xml:id="DOTR">
 
         <!-- #######################################  folio 104v  ####################################### -->
-        <pb n="104v" xml:id="R5_02" facs="data/images/single/R5_01.JPG"/>
+        <pb n="1" xml:id="R5_01" facs="data/images/single/R5_01.JPG"/>
 
         <l n="1"><lb facs="#VB_line_104v_07" n="7" xml:id="VB_lb_104v_07"/><hi rend="init3.1"><g ref="#Hunc"/></hi><hi
             rend="cap">W</hi>æt ic <g ref="#slong"/>wefna c<g ref="#ydot"/><g ref="#sins"/>t secgan wylle</l>
@@ -1320,7 +1320,7 @@
 
         <gb n="15" xml:id="VB_gb_15"/>
 
-        <pb n="105r" xml:id="VB_fol_105r" facs="data/images/single/R5_02.JPG"/>
+        <pb n="2" xml:id="VB_fol_105r" facs="data/images/single/R5_02.JPG"/>
 
         <ab>
           <add>
@@ -1589,7 +1589,7 @@
 
           <!-- #######################################  folio 105v  ####################################### -->
 
-          <pb n="105v" xml:id="VB_fol_105v" facs="data/images/single/VB_fol_105v.jpg"/>
+          <pb n="3" xml:id="VB_fol_105v" facs="data/images/single/VB_fol_105v.jpg"/>
 
           <lb facs="#VB_line_105v_01" n="1" xml:id="VB_lb_105v_01"/>hefian wite <damage type="faded">f</damage>orleton
           me þa <choice>
@@ -1872,7 +1872,7 @@
 
           <!-- #######################################  folio 106r  ####################################### -->
 
-          <pb n="106r" xml:id="VB_fol_106r" facs="data/images/single/VB_fol_106r.jpg"/>
+          <pb n="4" xml:id="VB_fol_106r" facs="data/images/single/VB_fol_106r.jpg"/>
 
           <add>
             <fw place="top-right" type="fol"><add hand="unknown">106.</add></fw>
