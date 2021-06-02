@@ -1598,7 +1598,7 @@
 -->
           <!-- #######################################  folio 105v  ####################################### -->
 
-          <pb n="3" xml:id="VB_fol_105v" facs="data/images/single/VB_fol_105v.jpg"/>
+          <pb n="3" xml:id="VB_fol_105v" facs="data/images/single/R5_03.JPG"/>
 
           <lb facs="#VB_line_105v_01" n="1" xml:id="VB_lb_105v_01"/>hefian wite <damage type="faded">f</damage>orleton
           me þa <choice>
@@ -1881,7 +1881,7 @@
 
           <!-- #######################################  folio 106r  ####################################### -->
 
-          <pb n="5" xml:id="VB_fol_106r" facs="data/images/single/VB_fol_106r.jpg"/>
+          <pb n="5" xml:id="VB_fol_106r" facs="data/images/single/R5_04.JPG"/>
 
           <add>
             <fw place="top-right" type="fol"><add hand="unknown">106.</add></fw>
